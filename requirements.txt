@@ -1,0 +1,4 @@
+thehive4py~=1.8.1
+requests~=2.31.0
+dateparser~=1.1.8
+schedule~=1.2.0
